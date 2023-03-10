@@ -43,8 +43,62 @@ export default function Input() {
                 <div className="col-6">Select 4</div>
               </div>
             </div>
-            <div className="col-4">l</div>
-            <div className="col-4">m</div>
+            <div className="col-4">
+              <div className="row">
+                <div className="col">IP 2</div>
+              </div>
+              <div className="row">
+                <div className="col-6">A</div>
+                <div className="col-6">
+                  <select>
+                    <option>Select 1</option>
+                    <option>Select 2</option>
+                    <option>Select 3</option>
+                    <option>Select 4</option>
+                  </select>
+                </div>
+              </div>
+              <div className="row">
+                <div className="col-6">B</div>
+                <div className="col-6">Select 2</div>
+              </div>
+              <div className="row">
+                <div className="col-6">C</div>
+                <div className="col-6">Select 3</div>
+              </div>
+              <div className="row">
+                <div className="col-6">D</div>
+                <div className="col-6">Select 4</div>
+              </div>
+            </div>
+            <div className="col-4">
+              <div className="row">
+                <div className="col">IP 3</div>
+              </div>
+              <div className="row">
+                <div className="col-6">A</div>
+                <div className="col-6">26</div>
+              </div>
+              <div className="row">
+                <div className="col-6">B</div>
+                <div className="col-6">12</div>
+              </div>
+              <div className="row">
+                <div className="col-6">C</div>
+                <div className="col-6">9</div>
+              </div>
+              <div className="row">
+                <div className="col-6">D</div>
+                <div className="col-6">
+                  <select>
+                    <option>Option 1</option>
+                    <option>Option 2</option>
+                    <option>Option 3</option>
+                    <option>Option 4</option>
+                  </select>
+                </div>
+              </div>
+            </div>
           </div>
         </div>
         <div className="w-25 bg-danger float-right">
